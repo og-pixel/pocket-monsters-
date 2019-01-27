@@ -1,0 +1,206 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Arena.cpp
+Arena.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Arena.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Arena.h
+vector
+-
+Monster/Monster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/Monster.h
+RandomGenerator.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/RandomGenerator.h
+Menu.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Menu.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/FirePotion.cpp
+iostream
+-
+FirePotion.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/FirePotion.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/FirePotion.h
+Item.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/Item.h
+string
+-
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/HealingPotion.cpp
+iostream
+-
+HealingPotion.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/HealingPotion.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/HealingPotion.h
+Item.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/Item.h
+string
+-
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/Item.cpp
+Item.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/Item.h
+HealingPotion.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/HealingPotion.h
+FirePotion.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/FirePotion.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/Item.h
+string
+-
+../Monster/Monster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/Monster.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/LoadingSystem.cpp
+LoadingSystem.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/LoadingSystem.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/LoadingSystem.h
+fstream
+-
+cstdlib
+-
+string
+-
+Menu.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Menu.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Main.cpp
+Main.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Main.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Main.h
+time.h
+-
+Menu.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Menu.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Menu.cpp
+Menu.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Menu.h
+Arena.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Arena.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Menu.h
+RandomGenerator.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/RandomGenerator.h
+Player.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Player.h
+LoadingSystem.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/LoadingSystem.h
+fstream
+-
+windows.h
+-
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/FireMonster.cpp
+FireMonster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/FireMonster.h
+../RandomGenerator.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/RandomGenerator.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/FireMonster.h
+Monster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/Monster.h
+vector
+-
+iostream
+-
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/Monster.cpp
+Monster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/Monster.h
+FireMonster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/FireMonster.h
+WaterMonster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/WaterMonster.h
+RockMonster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/RockMonster.h
+../Menu.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Menu.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/Monster.h
+string
+-
+iostream
+-
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/RockMonster.cpp
+RockMonster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/RockMonster.h
+../RandomGenerator.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/RandomGenerator.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/RockMonster.h
+Monster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/Monster.h
+vector
+-
+iostream
+-
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/WaterMonster.cpp
+WaterMonster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/WaterMonster.h
+../RandomGenerator.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/RandomGenerator.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/WaterMonster.h
+Monster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/Monster.h
+vector
+-
+iostream
+-
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Player.cpp
+Player.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Player.h
+Menu.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Menu.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Player.h
+iostream
+-
+vector
+-
+Items/Item.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Items/Item.h
+Monster/Monster.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/Monster/Monster.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/RandomGenerator.cpp
+RandomGenerator.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/RandomGenerator.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/RandomGenerator.h
+fstream
+-
+cstdlib
+-
+string
+-
+iostream
+-
+vector
+-
+random
+-
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/stdafx.cpp
+stdafx.h
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/stdafx.h
+
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/stdafx.h
+stdio.h
+-
+tchar.h
+-
+

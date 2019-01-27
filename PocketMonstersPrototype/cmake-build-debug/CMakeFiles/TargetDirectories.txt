@@ -1,0 +1,3 @@
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/cmake-build-debug/CMakeFiles/PocketMonstersPrototype.dir
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+﻿  TestingClass.cpp
+c:\users\jakubek278\source\repos\pocketmonstersprototype\pocketmonstersprototype\testingclass.h(9): warning C4091: 'static ': ignored on left of 'TestingClass' when no variable is declared
+  Main.cpp
+c:\users\jakubek278\source\repos\pocketmonstersprototype\pocketmonstersprototype\testingclass.h(9): warning C4091: 'static ': ignored on left of 'TestingClass' when no variable is declared
+c:\users\jakubek278\source\repos\pocketmonstersprototype\pocketmonstersprototype\main.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Menu.cpp
+  PocketMonstersPrototype.vcxproj -> C:\Users\jakubek278\source\repos\PocketMonstersPrototype\Debug\PocketMonstersPrototype.exe
+  PocketMonstersPrototype.vcxproj -> C:\Users\jakubek278\source\repos\PocketMonstersPrototype\Debug\PocketMonstersPrototype.pdb (Partial PDB)

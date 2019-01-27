@@ -1,0 +1,4 @@
+"C:\Programs\CLion 2017.3.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\Milosz Jakubanis\OneDrive - University of Huddersfield\C Workspace\PocketMonstersPrototype\PocketMonstersPrototype"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Milosz Jakubanis/OneDrive - University of Huddersfield/C Workspace/PocketMonstersPrototype/PocketMonstersPrototype/cmake-build-debug
